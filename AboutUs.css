@@ -1,0 +1,243 @@
+* {
+  .philosopher-regular {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+}
+
+body {
+  background-color: #2b2e32;
+}
+.content {
+  height: 1860px;
+  width: 1460px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid #2b2e32;
+  border-radius: 1cap;
+  box-shadow: rgb(5, 252, 248) 2px 2px 20px;
+}
+.abt {
+  /* text-shadow: 0 0 10px pink; */
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 8px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+.abt:hover {
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 20px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+
+.abt h1 {
+  height: 50px;
+  width: 150px;
+  padding-left: 20px;
+  color: burlywood;
+  margin-left: 270px;
+  border: #367fe0 2px;
+}
+.abt h1:hover {
+  border: #2b2e32 1px;
+  background-color: #303337;
+  box-shadow: yellow 2px 2px 10px;
+  border-radius: 1cap;
+  color: rgb(245, 171, 74);
+  margin-left: 270px;
+}
+
+.abt2 {
+  margin: 50px;
+  margin-left: 650px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 10px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+.abt2:hover {
+  margin: 50px;
+  margin-left: 650px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 20px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+
+.abt2 h1 {
+  height: 50px;
+  width: 150px;
+  padding-left: 20px;
+  color: burlywood;
+  margin-left: 270px;
+  border: #367fe0 2px;
+}
+
+.abt2 h1:hover {
+  border: #2b2e32 1px;
+  background-color: #303337;
+  box-shadow: yellow 2px 2px 10px;
+  border-radius: 1cap;
+  color: rgb(245, 171, 74);
+  margin-left: 270px;
+}
+
+.abt3 {
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 10px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+.abt3:hover {
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 20px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+
+.abt3 h1 {
+  height: 50px;
+  width: 280px;
+  padding-left: 40px;
+  color: burlywood;
+  margin-left: 210px;
+  border: #367fe0 2px;
+}
+.abt3 h1:hover {
+  border: #2b2e32 1px;
+  background-color: #303337;
+  box-shadow: yellow 2px 2px 10px;
+  border-radius: 1cap;
+  color: rgb(245, 171, 74);
+  margin-left: 210px;
+}
+.abt3 :hover {
+  box-shadow: wheat 2px 2px 15px;
+}
+
+.abt4 {
+  /* text-shadow: 0 0 10px pink; */
+  margin: 50px;
+  margin-left: 650px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 10px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+.abt4:hover {
+  /* text-shadow: 0 0 10px pink; */
+  margin: 50px;
+  margin-left: 650px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 20px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+
+.abt4 h1 {
+  height: 50px;
+  width: 200px;
+  padding-left: 40px;
+  color: burlywood;
+  margin-left: 250px;
+  border: #367fe0 2px;
+}
+.abt4 h1:hover {
+  border: #2b2e32 1px;
+  background-color: #303337;
+  box-shadow: yellow 2px 2px 10px;
+  border-radius: 1cap;
+  color: rgb(245, 171, 74);
+  margin-left: 250px;
+}
+
+.abt5 {
+  /* text-shadow: 0 0 10px pink; */
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 10px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+.abt5:hover {
+  margin: 50px;
+  padding: 20px;
+  color: rgb(246, 245, 243);
+  box-shadow: wheat 2px 2px 20px;
+  background-color: #303337;
+  border-radius: 2cap;
+  height: 200px;
+  width: 700px;
+}
+
+.abt5 h1 {
+  height: 50px;
+  width: 200px;
+  padding-left: 50px;
+  color: burlywood;
+  margin-left: 250px;
+  border: #367fe0 2px;
+}
+.abt5 h1:hover {
+  border: #2b2e32 1px;
+  background-color: #303337;
+  box-shadow: yellow 2px 2px 10px;
+  border-radius: 1cap;
+  color: rgb(245, 171, 74);
+  margin-left: 250px;
+}
+
+.img1 {
+  margin-top: -700px;
+  margin-left: 100px;
+}
+.img2 {
+  margin-top: 70px;
+  margin-left: 900px;
+}
+.img3 {
+  margin-top: -1440px;
+  margin-left: 100px;
+}
+
+.img4 {
+  margin-top: 50px;
+  margin-left: 900px;
+}
+.ban {
+  margin-top: -950px;
+  margin-left: 900px;
+}

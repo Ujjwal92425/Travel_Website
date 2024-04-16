@@ -1,0 +1,64 @@
+body {
+  background-color: #2b2e32;
+}
+
+.box1 {
+  height: 8080px;
+  width: fit-content;
+  border-radius: 0.5cap;
+  box-shadow: #3d3d3d 1px 1px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 12px;
+  justify-self: baseline;
+  align-content: flex-start;
+}
+
+.box {
+  background-color: #303337;
+  height: 400px;
+  width: 450px;
+  margin: 18px;
+  padding: 5px;
+  border-radius: 1cap;
+  box-shadow: wheat 1px 1px 5px;
+}
+.box:hover {
+  box-shadow: rgb(236, 190, 104) 1px 1px 15px;
+}
+.box img {
+  margin-left: 120px;
+  border-radius: 2%;
+}
+.box h5 {
+  text-align: center;
+  color: rgb(2, 255, 255);
+}
+.box p1 {
+    color: rgb(243, 191, 60);
+}
+.box button {
+  padding: 10px;
+}
+.box button:hover {
+  padding: 10px;
+  color: rgb(0, 249, 25);
+}
+#details {
+  border-radius: 1cap;
+  border: 2px solid rgb(125, 81, 248);
+  background-color: rgb(249, 244, 244);
+  /* box-shadow: wheat 1px 1px 5px; */
+  margin-left: 120px;
+}
+#book {
+  margin-left: 20px;
+  border-radius: 1cap;
+  border: 2px solid red;
+  background-color: rgb(238, 39, 39);
+  box-shadow: red 1px 1px;
+}
+
+#book {
+  box-shadow: red 1px 1px 10px;
+}
